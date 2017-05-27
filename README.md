@@ -1,0 +1,2 @@
+# openjdk
+learn about openjdk
